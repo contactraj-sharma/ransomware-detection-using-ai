@@ -1,8 +1,5 @@
 # Ransomware Detection using Machine Learning
 
-![Ransomware]
-
-
 **Goal of this Project**\
 Predict Ransomware based on file properties extracted from a tool. This model is a part of Full Antivirus + Malware Protection Software.
 Its a classification problem (Supervised Machine Learning). The data was immbalanced and needed to be transformed (Synthetic Samples: SMOTE-Tomek).
@@ -13,18 +10,6 @@ Its a classification problem (Supervised Machine Learning). The data was immbala
 * LIME for Local Explainations   
 * Weight of Evidence (Feature Selection Technique on Feature Separation Power)  [Read More](https://www.listendata.com/2015/03/weight-of-evidence-woe-and-information.html)
 * Removing Multi-colinear features (VIF)
-
-
-| ![Ransomware] | 
-|:--:| 
-| *LIME Explainability for Local Interpretation* |
-
-
-**Model Performance on Test Dataset**
-| ![Ransomware] | 
-|:--:| 
-| *Confusion Matrix* |
-
 
 **Metrics**
 * Model Used: Random Forest
