@@ -1,6 +1,6 @@
 # Ransomware Detection using Machine Learning
 
-![Ransomware](Photos/header.jpg)
+![Ransomware]
 
 
 **Goal of this Project**\
@@ -15,13 +15,13 @@ Its a classification problem (Supervised Machine Learning). The data was immbala
 * Removing Multi-colinear features (VIF)
 
 
-| ![Ransomware](Photos/lime.png) | 
+| ![Ransomware] | 
 |:--:| 
 | *LIME Explainability for Local Interpretation* |
 
 
 **Model Performance on Test Dataset**
-| ![Ransomware](Photos/confusion_matrix.png) | 
+| ![Ransomware] | 
 |:--:| 
 | *Confusion Matrix* |
 
